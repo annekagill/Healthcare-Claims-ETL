@@ -1,0 +1,23 @@
+# Database
+medicare.db
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Mac system file
+.DS_Store
+
+# Environment files
+.env
+
+# Pytest cache
+.pytest_cache/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Visual Studio Code settings
+.vscode/
+airflow_env/
